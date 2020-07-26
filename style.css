@@ -1,0 +1,82 @@
+/* ToDo App */
+
+body {
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+div {
+    font-size: 5pt;
+    color: black;
+    margin: auto;
+    width: 50%;
+    border: 3px solid goldenrod;
+    border-radius: 5PX;
+    padding: 4px;
+    justify-content: space-around;
+    background-color: khaki;
+}
+
+  input {
+      color: gray;
+      background-color: black;
+      width: 98%;
+      height: 10px;
+      font-size: 5px;
+      margin-bottom: 5PX;
+      border: none;
+      border-radius: 3px;
+
+  }
+
+.addBtn {
+      background-color: teal;
+      font-size: 5px;
+      font-weight: 700;
+      width: 108px;
+      height: 15px;
+      border: none;
+      border-radius: 3px;
+    
+}
+
+.allDelBtn {
+    background-color: red;
+      font-size: 5px;
+      font-weight: 700;
+      width: 108px;
+      height: 15px;
+      border: none;
+      border-radius: 3px;
+
+
+}
+.delBtn {
+    background-color: red;
+    font-size: 3px;
+    font-weight: 700;
+    width: 20px;
+    height: 7px;
+    border: none;
+    border-radius: 1px;
+    margin-left: 5px;
+    
+}
+.editBtn {
+    background-color:goldenrod;
+      font-size: 3px;
+      font-weight: 700;
+      width: 20px;
+      height: 7px;
+      border: none;
+      border-radius: 1px;
+      margin-left: 5px;
+
+}
